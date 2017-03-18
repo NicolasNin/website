@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/nicolasninin
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://ninin.me
+  * I am nicolasninin (https://keybase.io/nicolasninin) on keybase.
+  * I have a public key ASBiSH9kB9S-XGAW3BhAM0Hue0ExYYC6k1wb-Ws3ujjUDwo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "012062487f6407d4be5c6016dc18403341ee7b41316180ba935c1bf96b37ba38d40f0a",
+            "host": "keybase.io",
+            "kid": "012062487f6407d4be5c6016dc18403341ee7b41316180ba935c1bf96b37ba38d40f0a",
+            "uid": "f332f2cbd84501fada8d5e1c7152c519",
+            "username": "nicolasninin"
+        },
+        "service": {
+            "hostname": "ninin.me",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.20"
+    },
+    "ctime": 1489850665,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1489850247,
+        "hash": "cdbd40d9a17cd7d9e9846d89fad4c43b116ac52ea4da72d896cfde345e1152fe0fbd0f22823a3e6f42029a65f1112be8a0579fb9da6199923005a431b8567c3f",
+        "seqno": 966054
+    },
+    "prev": "96ce0be8a1487dbb2419638b4b00ea9364e0c22a795188f6739faa91881d6460",
+    "seqno": 10,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgYkh/ZAfUvlxgFtwYQDNB7ntBMWGAupNcG/lrN7o41A8Kp3BheWxvYWTFAvR7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwNjI0ODdmNjQwN2Q0YmU1YzYwMTZkYzE4NDAzMzQxZWU3YjQxMzE2MTgwYmE5MzVjMWJmOTZiMzdiYTM4ZDQwZjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwNjI0ODdmNjQwN2Q0YmU1YzYwMTZkYzE4NDAzMzQxZWU3YjQxMzE2MTgwYmE5MzVjMWJmOTZiMzdiYTM4ZDQwZjBhIiwidWlkIjoiZjMzMmYyY2JkODQ1MDFmYWRhOGQ1ZTFjNzE1MmM1MTkiLCJ1c2VybmFtZSI6Im5pY29sYXNuaW5pbiJ9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoibmluaW4ubWUiLCJwcm90b2NvbCI6Imh0dHA6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjIwIn0sImN0aW1lIjoxNDg5ODUwNjY1LCJleHBpcmVfaW4iOjUwNDU3NjAwMCwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE0ODk4NTAyNDcsImhhc2giOiJjZGJkNDBkOWExN2NkN2Q5ZTk4NDZkODlmYWQ0YzQzYjExNmFjNTJlYTRkYTcyZDg5NmNmZGUzNDVlMTE1MmZlMGZiZDBmMjI4MjNhM2U2ZjQyMDI5YTY1ZjExMTJiZThhMDU3OWZiOWRhNjE5OTkyMzAwNWE0MzFiODU2N2MzZiIsInNlcW5vIjo5NjYwNTR9LCJwcmV2IjoiOTZjZTBiZThhMTQ4N2RiYjI0MTk2MzhiNGIwMGVhOTM2NGUwYzIyYTc5NTE4OGY2NzM5ZmFhOTE4ODFkNjQ2MCIsInNlcW5vIjoxMCwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEDLth1zk1uSfXFb7shUqavDQCk/EdkNoEFFmp19TcZjeFuNLiZUugNMJ5WFhM3fLvvQ9nwctYlk1c+X0MJB1mULqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQg8yEoOgPCUO7aokE3GLjjSKQVYHq1MXFExiDoPRT+glqjdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/nicolasninin
+
+==================================================================
